@@ -1,7 +1,8 @@
 # route_guard
 
-A simple Flutter package for protecting routes with async guards like authentication.
+[![pub version](https://img.shields.io/pub/v/route_guard.svg)](https://pub.dev/packages/route_guard)
 
+A simple Flutter package for protecting routes with async guards like authentication.
 
 ## Features
 
@@ -10,7 +11,6 @@ A simple Flutter package for protecting routes with async guards like authentica
  • Custom redirection
 
  • Custom loading indicator
-
 
 ## Usage
 
